@@ -10,5 +10,5 @@ package exercici_meeting;
  * @author dvali
  */
 public enum OrientacionPolitica {
-    DERECHA, CENTRO, IZQUIERDA, EZXTREMA_DERECHA, EXTREMA_IZQUIERDA;
+    DERECHA, CENTRO, IZQUIERDA, EXTREMA_DERECHA, EXTREMA_IZQUIERDA;
 }
